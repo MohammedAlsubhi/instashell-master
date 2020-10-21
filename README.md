@@ -17,8 +17,9 @@ Instashell is an Shell Script to perform multi-threaded brute force attack again
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/instashell
-cd instashell
+تنزيل الاداة علي سطح المكتب
+
+
 chmod +x instashell.sh
 service tor start
 sudo ./instashell.sh
